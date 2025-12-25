@@ -1,15 +1,29 @@
 # ¡Hola! Soy Eliseo 👋
 
-### 👨‍💻 Estudiante de Informática | Entusiasta del Backend
+### 👨‍💻 Estudiante de Informática | Entusiasta del Backend y Bases de Datos.
 
-Actualmente estoy cursando la tecnicatura y enfocándome en las bases sólidas de la programación y los sistemas. Me gusta resolver problemas lógicos y optimizar recursos.
+Actualmente estoy cursando la tecnicatura en informatica y enfocándome en las bases sólidas de la programación y los sistemas. Me gusta resolver problemas lógicos y optimizar recursos.
+
+---
+### 🚀 Las tecnologías que utilicé en los proyectos son:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=gnu&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=green)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+###🔧 Proyectos Personales
 
 ---
 
-### 🛠️ Mi Caja de Herramientas
-* **Lenguajes:** `Java` `Assembly`
-* **Sistemas:** `Linux` `Windows`
-* **Redes:** `TCP/IP` `Subnetting`
+### 🌐 Links:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosD-eliseo-camaño/)
 
 ---
 
@@ -17,6 +31,4 @@ Actualmente estoy cursando la tecnicatura y enfocándome en las bases sólidas d
 - 🌱 Profundizando en **Estructuras de Datos y Algoritmos**.
 
 ---
-
-### 📊 Mis Estadísticas
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
+###Links
