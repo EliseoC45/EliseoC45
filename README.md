@@ -1,6 +1,6 @@
 # ¡Hola! Soy Eliseo 👋
 
-### 👨‍💻 Estudiante de Informática | Entusiasta del Backend y Bases de Datos.
+### 👨‍💻 Estudiante de Informática | Entusiasta del Backend.
 
 Actualmente estoy cursando la tecnicatura en informatica y enfocándome en las bases sólidas de la programación y los sistemas. Me gusta resolver problemas lógicos y optimizar recursos.
 
