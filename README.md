@@ -29,6 +29,3 @@ Actualmente estoy cursando la tecnicatura en informatica y enfocándome en las b
 
 ### 🔭 En qué estoy trabajando / aprendiendo
 - 🌱 Profundizando en **Estructuras de Datos y Algoritmos**.
-
----
-###Links
