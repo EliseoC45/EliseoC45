@@ -1,8 +1,8 @@
 # ¡Hola! Soy Eliseo 👋
 
-### 👨‍💻 Estudiante de Informática | Entusiasta del Backend.
+### 👨‍💻 Estudiante de Licenciatura en Sistemas | Entusiasta del Backend.
 
-Actualmente estoy cursando la tecnicatura en informatica y enfocándome en las bases sólidas de la programación y los sistemas. Me gusta resolver problemas lógicos y optimizar recursos.
+Actualmente estoy cursando la Tecnicatura en Informática y Licenciatura en Sistemas, enfocándome en las bases sólidas de la programación, el diseño de bases de datos y la construcción de soluciones de software escalables.
 
 ---
 
@@ -19,7 +19,7 @@ Actualmente estoy cursando la tecnicatura en informatica y enfocándome en las b
 
 ---
 
-###🔧 Proyectos Personales en Desarrollo.
+### 🔧 Proyectos Personales en Desarrollo.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=green)
