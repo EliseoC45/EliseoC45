@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 Las tecnologías que utilicé en los proyectos son:
+### 🚀 Las tecnologías que utilizo son:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-%230091BD.svg?style=for-the-badge&logo=arm&logoColor=black)
