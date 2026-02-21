@@ -3,7 +3,7 @@
 ###👨‍💻 Estudiante de Licenciatura en Sistemas | Entusiasta del Backend.
 
 Actualmente estoy cursando la Tecnicatura en Informática y Licenciatura en Sistemas, enfocándome en las bases sólidas de la programación, el diseño de bases de datos y la construcción de soluciones de software escalables.
-</div>
+
 ---
 
 ### 🚀 Las tecnologías que utilicé en los proyectos son:
