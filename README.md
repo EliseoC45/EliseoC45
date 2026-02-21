@@ -1,4 +1,4 @@
-#<h1 align="center"> ¡Hola! Soy Eliseo 👋
+<h1 align="center"> ¡Hola! Soy Eliseo 👋
 
 ### 👨‍💻 Estudiante de Licenciatura en Sistemas | Entusiasta del Backend.
 
