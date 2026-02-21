@@ -24,7 +24,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=green)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🛒 **Component Store API**: Desarrollo de una **API REST** para venta de hardware.
+- 🛒 **Periféricos Store API**: Desarrollo de una **API REST** para venta de periféricos.
   - 🧠 Enfoque en lógica de negocio, endpoints y gestión de stock.
   - 🗄️ Diseño e implementación de base de datos relacional.
 
