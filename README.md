@@ -10,6 +10,26 @@
 
 ---
 
+### 🔭 En qué estoy trabajando / aprendiendo
+- 🌱 Profundizando en **Estructuras de Datos y Algoritmos**.
+- 🍃 Construyendo APIs REST y servicios backend con **Spring Boot**.
+- 🗄️ Modelado y gestión de Bases de Datos Relacionales (**PostgreSQL/SQL**).
+- 🇬🇧 Perfeccionando mi **Inglés Técnico** para documentación y lectura profesional.
+
+---
+
+### 🔧 Proyectos Personales en Desarrollo...
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=green)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- 🛒 **Component Store API**: Desarrollo de una **API REST** para venta de hardware.
+  - 🧠 Enfoque en lógica de negocio, endpoints y gestión de stock.
+  - 🗄️ Diseño e implementación de base de datos relacional.
+
+---
+
 ### 🚀 Las tecnologías que utilizo son:
 
 #### 🔧 Lenguajes
@@ -29,26 +49,6 @@
 
 #### 📡 Otras tecnologías
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-### 🔧 Proyectos Personales en Desarrollo...
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=green)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-- 🛒 **Component Store API**: Desarrollo de una **API REST** para venta de hardware.
-  - 🧠 Enfoque en lógica de negocio, endpoints y gestión de stock.
-  - 🗄️ Diseño e implementación de base de datos relacional.
-
----
-
-### 🔭 En qué estoy trabajando / aprendiendo
-- 🌱 Profundizando en **Estructuras de Datos y Algoritmos**.
-- 🍃 Construyendo APIs REST y servicios backend con **Spring Boot**.
-- 🗄️ Modelado y gestión de Bases de Datos Relacionales (**PostgreSQL/SQL**).
-- 🇬🇧 Perfeccionando mi **Inglés Técnico** para documentación y lectura profesional.
 
 ---
 
