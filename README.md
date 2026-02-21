@@ -2,9 +2,9 @@
 
 <h1>¡Hola! Soy Marcos Eliseo Camaño 👋</h1>
 
-<p>👨‍💻 Estudiante de Licenciatura en Sistemas | Entusiasta del Backend.</p>
+<h3>👨‍💻 Estudiante de Licenciatura en Sistemas | Con afinidad por el Backend.</h3>
 
-<p>Actualmente estoy cursando la Tecnicatura en Informática y Licenciatura en Sistemas, enfocándome en las bases sólidas de la programación, el diseño de bases de datos y la construcción de soluciones de software escalables.</p>
+<p>Actualmente estoy cursando la Tecnicatura en Informática y Licenciatura en Sistemas. Buscando siempre enfocarme en qué puedo mejorar para lograr desempeñarme de manera eficaz, de esta forma adquiriendo y aportando mis conocimientos en cualquier trabajo. </p>
 
 </div>
 
