@@ -4,7 +4,7 @@
 
 <h3>👨‍💻 Estudiante de Licenciatura en Sistemas | Con afinidad por el Backend.</h3>
 
-<p>Actualmente estoy cursando la Tecnicatura en Informática y Licenciatura en Sistemas. Buscando siempre enfocarme en qué puedo mejorar para lograr desempeñarme de manera eficaz, de esta forma adquiriendo y aportando mis conocimientos en cualquier trabajo. </p>
+<p>📍 Desde Buenos Aires, Argentina. Actualmente estoy cursando la Tecnicatura en Informática y Licenciatura en Sistemas. Buscando siempre enfocarme en qué puedo mejorar para lograr desempeñarme de manera eficaz, de esta forma adquiriendo y aportando mis conocimientos en cualquier trabajo. </p>
 
 </div>
 
