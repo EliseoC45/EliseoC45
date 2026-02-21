@@ -1,8 +1,8 @@
 #<h1 align="center"> ¡Hola! Soy Eliseo 👋
 
-### <h1 align="center">👨‍💻 Estudiante de Licenciatura en Sistemas | Entusiasta del Backend.
+### 👨‍💻 Estudiante de Licenciatura en Sistemas | Entusiasta del Backend.
 
-<h1 align="center">Actualmente estoy cursando la Tecnicatura en Informática y Licenciatura en Sistemas, enfocándome en las bases sólidas de la programación, el diseño de bases de datos y la construcción de soluciones de software escalables.
+Actualmente estoy cursando la Tecnicatura en Informática y Licenciatura en Sistemas, enfocándome en las bases sólidas de la programación, el diseño de bases de datos y la construcción de soluciones de software escalables.
 
 ---
 
