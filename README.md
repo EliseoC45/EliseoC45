@@ -11,10 +11,10 @@
 ---
 
 ### 🔭 En qué estoy trabajando / aprendiendo
-- 🌱 Profundizando en **Estructuras de Datos y Algoritmos**.
 - 🍃 Construyendo APIs REST y servicios backend con **Spring Boot**.
-- 🗄️ Modelado y gestión de Bases de Datos Relacionales (**PostgreSQL/SQL**).
-- 🇬🇧 Perfeccionando mi **Inglés Técnico** para documentación y lectura profesional.
+- 🏗️ Aplicando arquitectura multicapa: Separación de responsabilidades.
+- 🗄️ Modelado y gestión de Bases de Datos Relacionales (**PostgreSQL**).
+- 🇬🇧 Mejorando mi **Inglés Técnico** para documentación y lectura.
 
 ---
 
